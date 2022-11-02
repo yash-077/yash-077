@@ -1,4 +1,6 @@
-### I'm Yash Patil 👋
+<h1 align="center">Hey, I'm Yash 👋 </h1>
+
+<h3 align="left">Connect with me:</h3>
 <a href="www.linkedin.com/in/yash-patil07">
 <a href="https://linkedin.com/in/yash-patil07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash-patil07" height="30" width="40" /></a>
  <br>
@@ -11,7 +13,7 @@
 <br/>
 </br>
     
-**Languages and Tools:**  
+<h3 align="left">Languages and Tools:<h3> 
 
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" width="30" src="http://2.bp.blogspot.com/-4XOVPwPY5Pk/UO0Z5QvyN4I/AAAAAAAAAZg/JLFWI63epVQ/s1600/Java[1].jpg"></code>
@@ -20,7 +22,7 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
-###### *Here are my stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
+###### *Here are my stats <div align="center">*
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-077&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
 </div>
 <a href="https://github.com/Yash-077">
