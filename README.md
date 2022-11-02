@@ -18,14 +18,14 @@
 
 
 ###### *Here are my stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sridhar2412&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-077&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
 </div>
 <a href="https://github.com/Yash-077">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridhar2412&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-077&theme=light&hide_langs_below=1" />
   </a>
     <br/>
     <a href="https://github.com/Yash-077">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sridhar2412&show_icons=true&theme=light&line_height=27" alt="Yash's github stats"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash-077&show_icons=true&theme=light&line_height=27" alt="Yash's github stats"/>
      </a>
      <br/>
      
