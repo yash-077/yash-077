@@ -3,7 +3,7 @@
 <a href="www.linkedin.com/in/yash-patil07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-patil07" height="30" width="40" /></a>
 <br/>
 <br/>
-<a href="https://www.hackerrank.com/Sridhar_24" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Sridhar_24" ></a> &nbsp
+<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Yash-077" ></a> &nbsp
 <a href="https://leetcode.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="yash-077"></a>
 <br/>
 </br>
