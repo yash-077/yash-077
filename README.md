@@ -1,8 +1,7 @@
 ### I'm Yash Patil 👋
 <a href="www.linkedin.com/in/yash-patil07">
-<a href="www.linkedin.com/in/yash-patil07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-patil07" height="30" width="40" /></a>
-<br/>
 <a href="https://linkedin.com/in/yash-patil07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash-patil07" height="30" width="40" /></a>
+ <br>   
 <a href="https://instagram.com/iam_yash30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iam_yash30" height="30" width="40" /></a>    
 <br/>
 <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Yash-077" ></a> &nbsp
