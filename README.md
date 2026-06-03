@@ -24,7 +24,7 @@
   &nbsp;
   <a href="mailto:yashpatilcy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://yashpatil07.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://yashpatil7.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -78,7 +78,7 @@ A full SaaS platform for restaurant chains — multiple brands, one backend. Rol
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<!-- [View Repo](#) · --> [Live Demo](#)
+[Live Demo](#)
 
 ---
 
@@ -90,7 +90,7 @@ End-to-end e-commerce app with product management, cart, checkout, and admin das
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-[View Repo](https://github.com/Yash-077/Apex-E-commerce) · [Live Demo](https://apex-indol-psi.vercel.app/)
+[Live Demo](https://apex-indol-psi.vercel.app/)
 
 ---
 
@@ -129,6 +129,6 @@ Track workouts, set goals, visualise progress. PWA-ready with offline support.
 
 I'm always up for a good project or a conversation about tech.
 
-💼 [linkedin.com/in/yashpatil7](https://linkedin.com/in/yashpatil7)  |  🌐 [yourportfolio.com](https://yourportfolio.com)
+💼 [linkedin](https://linkedin.com/in/yashpatil7)  |  🌐 [portfolio](https://yashpatil7.netlify.app/)
 
 > When I'm not shipping code, I'm planning motorcycle expeditions.
